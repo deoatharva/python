@@ -1,0 +1,12 @@
+a=5
+print(a)
+b=32
+print(b)
+a=6.5
+print(a)
+c=True
+print(c)
+d="Atharva"
+print(d)
+e=None
+print(e)
